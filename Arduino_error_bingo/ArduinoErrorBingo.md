@@ -1,5 +1,5 @@
 
-# **Ardiuno Error Bingo**
+# **Arduino Error Bingo**
 ## **Thoughts about context and framing**
 coming soon!
 
